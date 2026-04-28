@@ -1,6 +1,6 @@
 import os
 import yt_dlp
-from youtubesearchpython import VideosSearch
+from youtubesearchpython import VideosSearch  # pyright: ignore[reportMissingImports]
 
 def create_download_folder():
     folder_name = 'direct youtube Rips'

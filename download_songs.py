@@ -6,6 +6,7 @@ import threading
 import sys
 import select
 import queue
+import glob
 from concurrent.futures import ThreadPoolExecutor
 
 def get_video_title(query):
@@ -15,6 +16,7 @@ def get_video_title(query):
         audio_query = f"{query} Audio"
         result = subprocess.run([
             "yt-dlp",
+            "--js", "node",
             f"ytsearch1:{audio_query}",
             "--get-title",
             "--skip-download"
@@ -61,7 +63,9 @@ def download_single_song(song, i, total_songs, output_dir):
         # Use yt-dlp to download the audio
         subprocess.run([
             "yt-dlp",
+            "--js", "node",
             f"ytsearch1:{audio_query}",
+            "--format", "bestaudio[ext!=mhtml]/bestaudio/best[ext!=mhtml]",
             "--extract-audio",
             "--audio-format", "mp3",
             "--audio-quality", "0",  # Best quality
@@ -73,6 +77,13 @@ def download_single_song(song, i, total_songs, output_dir):
             "--output", f"{output_dir}/%(title)s - %(artist)s.%(ext)s",
             "--no-playlist"  # Prevent downloading multiple versions of the same song
         ])
+        cleanup_patterns = ("*.mhtml", "*.webp", "*.jpg")
+        for pattern in cleanup_patterns:
+            for leftover_file in glob.glob(os.path.join(output_dir, pattern)):
+                try:
+                    os.remove(leftover_file)
+                except OSError:
+                    pass
         
     except Exception as e:
         print(f"Error processing {song['title']}: {e}")

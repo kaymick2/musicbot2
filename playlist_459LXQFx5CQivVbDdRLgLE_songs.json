@@ -1,0 +1,802 @@
+[
+    {
+        "title": "start",
+        "artist": "salute",
+        "album": "TRUE MAGIC",
+        "spotify_url": "https://open.spotify.com/track/20vZVlFuISE9jmzXXqskYz",
+        "duration_ms": 29197,
+        "search_query": "start salute"
+    },
+    {
+        "title": "saving flowers",
+        "artist": "salute",
+        "album": "TRUE MAGIC",
+        "spotify_url": "https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ",
+        "duration_ms": 210785,
+        "search_query": "saving flowers salute"
+    },
+    {
+        "title": "Massive",
+        "artist": "Drake",
+        "album": "Honestly, Nevermind",
+        "spotify_url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn",
+        "duration_ms": 336924,
+        "search_query": "Massive Drake"
+    },
+    {
+        "title": "Run Away",
+        "artist": "Time Machine",
+        "album": "Run Away",
+        "spotify_url": "https://open.spotify.com/track/0LscEilXw7VmXKOFA0LK4h",
+        "duration_ms": 246177,
+        "search_query": "Run Away Time Machine"
+    },
+    {
+        "title": "Sometimes",
+        "artist": "Charli Brix",
+        "album": "Sometimes",
+        "spotify_url": "https://open.spotify.com/track/06UFCWONwdVSoj6uBX2bNO",
+        "duration_ms": 200565,
+        "search_query": "Sometimes Charli Brix"
+    },
+    {
+        "title": "SO__IN_2__YOU__ADLAIS__LIQUID__VERSION_177_BPM.wav",
+        "artist": "Adlai",
+        "album": "CAR SONGS: VOL 1",
+        "spotify_url": "https://open.spotify.com/track/31CehM6KiTpnQBWUUW0FUv",
+        "duration_ms": 201931,
+        "search_query": "SO__IN_2__YOU__ADLAIS__LIQUID__VERSION_177_BPM.wav Adlai"
+    },
+    {
+        "title": "Future Lovers",
+        "artist": "Madonna",
+        "album": "Confessions on a Dance Floor",
+        "spotify_url": "https://open.spotify.com/track/0amQzI3QzlkNzlUQSLxGOP",
+        "duration_ms": 301880,
+        "search_query": "Future Lovers Madonna"
+    },
+    {
+        "title": "Beautiful People",
+        "artist": "Chris Brown",
+        "album": "F.A.M.E. (Expanded Edition)",
+        "spotify_url": "https://open.spotify.com/track/0iSaO7CfL9NgXdM8Meu2ul",
+        "duration_ms": 226773,
+        "search_query": "Beautiful People Chris Brown"
+    },
+    {
+        "title": "Head & Heart (feat. MNEK)",
+        "artist": "Joel Corry",
+        "album": "Head & Heart (feat. MNEK)",
+        "spotify_url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9",
+        "duration_ms": 166028,
+        "search_query": "Head & Heart (feat. MNEK) Joel Corry"
+    },
+    {
+        "title": "GROWN WOMAN",
+        "artist": "Kevin Jz Prodigy",
+        "album": "GROWN WOMAN",
+        "spotify_url": "https://open.spotify.com/track/22gvZz1UAxcBzl74jYwSor",
+        "duration_ms": 173897,
+        "search_query": "GROWN WOMAN Kevin Jz Prodigy"
+    },
+    {
+        "title": "Beauty And A Beat",
+        "artist": "Justin Bieber",
+        "album": "Believe (Deluxe Edition)",
+        "spotify_url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk",
+        "duration_ms": 227986,
+        "search_query": "Beauty And A Beat Justin Bieber"
+    },
+    {
+        "title": "Thinking About You (feat. Ayah Marar)",
+        "artist": "Calvin Harris",
+        "album": "18 Months",
+        "spotify_url": "https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ",
+        "duration_ms": 247933,
+        "search_query": "Thinking About You (feat. Ayah Marar) Calvin Harris"
+    },
+    {
+        "title": "Down To Earth",
+        "artist": "Flight Facilities",
+        "album": "Down To Earth",
+        "spotify_url": "https://open.spotify.com/track/0HIbr7NZJeItNaRNHEfrqX",
+        "duration_ms": 270026,
+        "search_query": "Down To Earth Flight Facilities"
+    },
+    {
+        "title": "Del\u00edrios",
+        "artist": "FBC",
+        "album": "BAILE",
+        "spotify_url": "https://open.spotify.com/track/546KHf7B5TeIifYB1gVZ9E",
+        "duration_ms": 162523,
+        "search_query": "Del\u00edrios FBC"
+    },
+    {
+        "title": "\u041c\u0430\u043c\u0430, \u044f \u0432\u043b\u044e\u0431\u0438\u043b\u0430\u0441\u044c",
+        "artist": "HANNA",
+        "album": "\u041c\u0430\u043c\u0430, \u044f \u0432\u043b\u044e\u0431\u0438\u043b\u0430\u0441\u044c",
+        "spotify_url": "https://open.spotify.com/track/4cp6wifiHuYSCUK3Eez6Dl",
+        "duration_ms": 163186,
+        "search_query": "\u041c\u0430\u043c\u0430, \u044f \u0432\u043b\u044e\u0431\u0438\u043b\u0430\u0441\u044c HANNA"
+    },
+    {
+        "title": "\u041f\u041e\u0422\u0410\u041d\u0426\u0415\u0412\u0410\u041b",
+        "artist": "DAVA",
+        "album": "\u041f\u041e\u0422\u0410\u041d\u0426\u0415\u0412\u0410\u041b",
+        "spotify_url": "https://open.spotify.com/track/6lhjQ6B64CyjQavrn4DWJ7",
+        "duration_ms": 189921,
+        "search_query": "\u041f\u041e\u0422\u0410\u041d\u0426\u0415\u0412\u0410\u041b DAVA"
+    },
+    {
+        "title": "\u041f\u044c\u044f\u043d\u0430\u044f \u0432\u0438\u0448\u043d\u044f",
+        "artist": "Kristina Orbakait\u0117",
+        "album": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430",
+        "spotify_url": "https://open.spotify.com/track/6y6NOzRfTGnzKLz3SrTcWN",
+        "duration_ms": 210483,
+        "search_query": "\u041f\u044c\u044f\u043d\u0430\u044f \u0432\u0438\u0448\u043d\u044f Kristina Orbakait\u0117"
+    },
+    {
+        "title": "Can We Talk About Us",
+        "artist": "Damaui",
+        "album": "Can We Talk About Us",
+        "spotify_url": "https://open.spotify.com/track/2GfeXwQIe8qSLgy7ezh5pd",
+        "duration_ms": 147096,
+        "search_query": "Can We Talk About Us Damaui"
+    },
+    {
+        "title": "Sunlight (feat. Years and Years)",
+        "artist": "The Magician",
+        "album": "Sunlight (feat. Years and Years)",
+        "spotify_url": "https://open.spotify.com/track/7w9W20r1IpCDQQMRcLEsQZ",
+        "duration_ms": 193481,
+        "search_query": "Sunlight (feat. Years and Years) The Magician"
+    },
+    {
+        "title": "Our World",
+        "artist": "Bodysync",
+        "album": "Radio Active",
+        "spotify_url": "https://open.spotify.com/track/37fKGos9ajk7xWBabAENvp",
+        "duration_ms": 249346,
+        "search_query": "Our World Bodysync"
+    },
+    {
+        "title": "If You Wanna",
+        "artist": "Leftwing : Kody",
+        "album": "If You Wanna",
+        "spotify_url": "https://open.spotify.com/track/5NMpjgdyG48RGtkjj8QENH",
+        "duration_ms": 180480,
+        "search_query": "If You Wanna Leftwing : Kody"
+    },
+    {
+        "title": "Ain't It Fun",
+        "artist": "Wuki",
+        "album": "Ain't It Fun",
+        "spotify_url": "https://open.spotify.com/track/1wVU8sMkX489OGwVRm2LIy",
+        "duration_ms": 184302,
+        "search_query": "Ain't It Fun Wuki"
+    },
+    {
+        "title": "This Is Real (ft. Ella Henderson)",
+        "artist": "Jax Jones",
+        "album": "Snacks (Supersize)",
+        "spotify_url": "https://open.spotify.com/track/1pRShUtGOG6ZP5fsnw9G4h",
+        "duration_ms": 199160,
+        "search_query": "This Is Real (ft. Ella Henderson) Jax Jones"
+    },
+    {
+        "title": "Blessings",
+        "artist": "Calvin Harris",
+        "album": "Blessings",
+        "spotify_url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z",
+        "duration_ms": 219650,
+        "search_query": "Blessings Calvin Harris"
+    },
+    {
+        "title": "Da Fonk (feat. Joni)",
+        "artist": "Mochakk",
+        "album": "Da Fonk (feat. Joni)",
+        "spotify_url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b",
+        "duration_ms": 366141,
+        "search_query": "Da Fonk (feat. Joni) Mochakk"
+    },
+    {
+        "title": "Sexiest Man in Jamaica",
+        "artist": "Mint Royale",
+        "album": "Dancehall Places",
+        "spotify_url": "https://open.spotify.com/track/7jpenS8YIrY1GizHZGy6FX",
+        "duration_ms": 244173,
+        "search_query": "Sexiest Man in Jamaica Mint Royale"
+    },
+    {
+        "title": "Stop This Flame - Celeste x MK",
+        "artist": "Celeste",
+        "album": "Stop This Flame (Celeste x MK)",
+        "spotify_url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot",
+        "duration_ms": 203946,
+        "search_query": "Stop This Flame - Celeste x MK Celeste"
+    },
+    {
+        "title": "Again",
+        "artist": "Myd",
+        "album": "Homieland, Vol. 2",
+        "spotify_url": "https://open.spotify.com/track/0bwBB9pHFqdPvOiNjeywJ2",
+        "duration_ms": 322571,
+        "search_query": "Again Myd"
+    },
+    {
+        "title": "The Heat",
+        "artist": "Alok",
+        "album": "The Heat",
+        "spotify_url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p",
+        "duration_ms": 150000,
+        "search_query": "The Heat Alok"
+    },
+    {
+        "title": "Praising You (feat. Fatboy Slim)",
+        "artist": "Rita Ora",
+        "album": "Praising You (feat. Fatboy Slim)",
+        "spotify_url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8",
+        "duration_ms": 164693,
+        "search_query": "Praising You (feat. Fatboy Slim) Rita Ora"
+    },
+    {
+        "title": "Hey Baby",
+        "artist": "Laurence Guy",
+        "album": "Hey Baby (salute Remix)",
+        "spotify_url": "https://open.spotify.com/track/5PCB1bz6WY0nEQmPgOaoZh",
+        "duration_ms": 236307,
+        "search_query": "Hey Baby Laurence Guy"
+    },
+    {
+        "title": "Sweet Love",
+        "artist": "Nightlapse",
+        "album": "Sweet Love",
+        "spotify_url": "https://open.spotify.com/track/43ezOGYCrWlOebao7hTyRG",
+        "duration_ms": 209728,
+        "search_query": "Sweet Love Nightlapse"
+    },
+    {
+        "title": "Happier (feat. Clementine Douglas)",
+        "artist": "The Blessed Madonna",
+        "album": "Godspeed",
+        "spotify_url": "https://open.spotify.com/track/4HvBJocC5MDYL4yGnQe5jq",
+        "duration_ms": 170346,
+        "search_query": "Happier (feat. Clementine Douglas) The Blessed Madonna"
+    },
+    {
+        "title": "flash",
+        "artist": "2hollis",
+        "album": "star",
+        "spotify_url": "https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W",
+        "duration_ms": 164117,
+        "search_query": "flash 2hollis"
+    },
+    {
+        "title": "go!",
+        "artist": "salute",
+        "album": "TRUE MAGIC",
+        "spotify_url": "https://open.spotify.com/track/5t2y268snYiNava21XWxMZ",
+        "duration_ms": 131054,
+        "search_query": "go! salute"
+    },
+    {
+        "title": "Speed Drive",
+        "artist": "Charli xcx",
+        "album": "Barbie The Album",
+        "spotify_url": "https://open.spotify.com/track/7GRv55NwkjxU2ysJLwzC9c",
+        "duration_ms": 117809,
+        "search_query": "Speed Drive Charli xcx"
+    },
+    {
+        "title": "Queen Of My Castle",
+        "artist": "Kris Kross Amsterdam",
+        "album": "Queen Of My Castle",
+        "spotify_url": "https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69",
+        "duration_ms": 156290,
+        "search_query": "Queen Of My Castle Kris Kross Amsterdam"
+    },
+    {
+        "title": "Deep In Your Love",
+        "artist": "Alok",
+        "album": "Deep In Your Love",
+        "spotify_url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB",
+        "duration_ms": 144500,
+        "search_query": "Deep In Your Love Alok"
+    },
+    {
+        "title": "True Faith - Radio Edit",
+        "artist": "Liz Kay",
+        "album": "True Faith",
+        "spotify_url": "https://open.spotify.com/track/5nh3CtYpD3WLfLQi5j7XOU",
+        "duration_ms": 200500,
+        "search_query": "True Faith - Radio Edit Liz Kay"
+    },
+    {
+        "title": "Replay",
+        "artist": "Lady Gaga",
+        "album": "Chromatica",
+        "spotify_url": "https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd",
+        "duration_ms": 186653,
+        "search_query": "Replay Lady Gaga"
+    },
+    {
+        "title": "Garden Of Eden",
+        "artist": "Lady Gaga",
+        "album": "MAYHEM",
+        "spotify_url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd",
+        "duration_ms": 239720,
+        "search_query": "Garden Of Eden Lady Gaga"
+    },
+    {
+        "title": "We'll Always Have This Dance",
+        "artist": "KUU",
+        "album": "We'll Always Have This Dance",
+        "spotify_url": "https://open.spotify.com/track/1wVxT52Kzct3fqyxnICuwN",
+        "duration_ms": 195369,
+        "search_query": "We'll Always Have This Dance KUU"
+    },
+    {
+        "title": "I'm Not Alone - 2019 Edit",
+        "artist": "Calvin Harris",
+        "album": "96 Months",
+        "spotify_url": "https://open.spotify.com/track/6zAUCritANdhceCMLVB8xR",
+        "duration_ms": 201313,
+        "search_query": "I'm Not Alone - 2019 Edit Calvin Harris"
+    },
+    {
+        "title": "heaven in your arms",
+        "artist": "salute",
+        "album": "heaven in your arms",
+        "spotify_url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi",
+        "duration_ms": 248415,
+        "search_query": "heaven in your arms salute"
+    },
+    {
+        "title": "Wait For It",
+        "artist": "salute",
+        "album": "Wait For It",
+        "spotify_url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC",
+        "duration_ms": 239668,
+        "search_query": "Wait For It salute"
+    },
+    {
+        "title": "llamando",
+        "artist": "camoufly",
+        "album": "llamando",
+        "spotify_url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw",
+        "duration_ms": 156184,
+        "search_query": "llamando camoufly"
+    },
+    {
+        "title": "Joy",
+        "artist": "salute",
+        "album": "Joy",
+        "spotify_url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0",
+        "duration_ms": 281381,
+        "search_query": "Joy salute"
+    },
+    {
+        "title": "Intuition",
+        "artist": "camoufly",
+        "album": "Intuition",
+        "spotify_url": "https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe",
+        "duration_ms": 208888,
+        "search_query": "Intuition camoufly"
+    },
+    {
+        "title": "glory",
+        "artist": "camoufly",
+        "album": "glory",
+        "spotify_url": "https://open.spotify.com/track/4eRhnf2tZGwBqkGxUd6MWs",
+        "duration_ms": 154782,
+        "search_query": "glory camoufly"
+    },
+    {
+        "title": "Someday - salute Remix",
+        "artist": "DJ Seinfeld",
+        "album": "Someday (salute Remix)",
+        "spotify_url": "https://open.spotify.com/track/7AVHYVUUTusrL4zPSekFfT",
+        "duration_ms": 289411,
+        "search_query": "Someday - salute Remix DJ Seinfeld"
+    },
+    {
+        "title": "Oxygen - Salute Remix",
+        "artist": "The Prototypes",
+        "album": "Ten Thousand Feet & Rising (The Remixes)",
+        "spotify_url": "https://open.spotify.com/track/75siLrURb6ShHHuPRPyEai",
+        "duration_ms": 178646,
+        "search_query": "Oxygen - Salute Remix The Prototypes"
+    },
+    {
+        "title": "Looking For Love - salute remix",
+        "artist": "Disclosure",
+        "album": "Looking For Love (salute remix)",
+        "spotify_url": "https://open.spotify.com/track/3pbaa7YbnJLNif8TOONI9t",
+        "duration_ms": 299794,
+        "search_query": "Looking For Love - salute remix Disclosure"
+    },
+    {
+        "title": "Electricity (salute Remix)",
+        "artist": "Hikaru Utada",
+        "album": "Electricity (salute Remix)",
+        "spotify_url": "https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i",
+        "duration_ms": 250675,
+        "search_query": "Electricity (salute Remix) Hikaru Utada"
+    },
+    {
+        "title": "Run Away With You",
+        "artist": "salute",
+        "album": "Shield",
+        "spotify_url": "https://open.spotify.com/track/17lNneB8PxBx8rttZDywXU",
+        "duration_ms": 252086,
+        "search_query": "Run Away With You salute"
+    },
+    {
+        "title": "Sternenhimmel",
+        "artist": "salute",
+        "album": "Ultra Pool",
+        "spotify_url": "https://open.spotify.com/track/3AgxA72o5Sst6WrlbxOBah",
+        "duration_ms": 334886,
+        "search_query": "Sternenhimmel salute"
+    },
+    {
+        "title": "Thief in the Night (salute Remix) - Edit",
+        "artist": "DJ Q",
+        "album": "Thief in the Night (Remixes)",
+        "spotify_url": "https://open.spotify.com/track/3ZHAzS7N2X4Ho0MtBFGd9h",
+        "duration_ms": 196000,
+        "search_query": "Thief in the Night (salute Remix) - Edit DJ Q"
+    },
+    {
+        "title": "On & On",
+        "artist": "Armin van Buuren",
+        "album": "Feel Again",
+        "spotify_url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB",
+        "duration_ms": 170578,
+        "search_query": "On & On Armin van Buuren"
+    },
+    {
+        "title": "seashore on the moon",
+        "artist": "Nanahira",
+        "album": "POP|CULTURE 6",
+        "spotify_url": "https://open.spotify.com/track/72YqoGVJq1g1V9xlBImQFl",
+        "duration_ms": 253500,
+        "search_query": "seashore on the moon Nanahira"
+    },
+    {
+        "title": "Still Sleepless",
+        "artist": "D.O.D",
+        "album": "Still Sleepless",
+        "spotify_url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC",
+        "duration_ms": 162879,
+        "search_query": "Still Sleepless D.O.D"
+    },
+    {
+        "title": "one of those nights",
+        "artist": "salute",
+        "album": "TRUE MAGIC",
+        "spotify_url": "https://open.spotify.com/track/2uXLgeQtjvHquZGs3j7XYE",
+        "duration_ms": 187188,
+        "search_query": "one of those nights salute"
+    },
+    {
+        "title": "luv stuck",
+        "artist": "salute",
+        "album": "TRUE MAGIC",
+        "spotify_url": "https://open.spotify.com/track/01dN3BpfEFTWDlKvP4wD2l",
+        "duration_ms": 160440,
+        "search_query": "luv stuck salute"
+    },
+    {
+        "title": "Hello",
+        "artist": "Martin Solveig",
+        "album": "Smash (Deluxe)",
+        "spotify_url": "https://open.spotify.com/track/0BNyKP5Or3d9XG65zTn7VB",
+        "duration_ms": 281429,
+        "search_query": "Hello Martin Solveig"
+    },
+    {
+        "title": "Motion Study",
+        "artist": "Alex Metric",
+        "album": "Ammunition Pt. 2",
+        "spotify_url": "https://open.spotify.com/track/1fQdz5MZUADRG9TFBLBNk6",
+        "duration_ms": 304595,
+        "search_query": "Motion Study Alex Metric"
+    },
+    {
+        "title": "LAY YOUR HANDS ON ME (2017)",
+        "artist": "BOOM BOOM SATELLITES",
+        "album": "19972016 -20082016-",
+        "spotify_url": "https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8",
+        "duration_ms": 372013,
+        "search_query": "LAY YOUR HANDS ON ME (2017) BOOM BOOM SATELLITES"
+    },
+    {
+        "title": "Pogo - Shinichi Osawa Extended Remix",
+        "artist": "Digitalism",
+        "album": "Moshi Moshi",
+        "spotify_url": "https://open.spotify.com/track/4239f9qjH6UQNLJ30kK74p",
+        "duration_ms": 367306,
+        "search_query": "Pogo - Shinichi Osawa Extended Remix Digitalism"
+    },
+    {
+        "title": "OUR SONG",
+        "artist": "Shinichi Osawa",
+        "album": "The One",
+        "spotify_url": "https://open.spotify.com/track/5C23UsA3hV3oK5IYmRGo3J",
+        "duration_ms": 321813,
+        "search_query": "OUR SONG Shinichi Osawa"
+    },
+    {
+        "title": "Tell Your World",
+        "artist": "livetune",
+        "album": "Tell Your World EP",
+        "spotify_url": "https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e",
+        "duration_ms": 254640,
+        "search_query": "Tell Your World livetune"
+    },
+    {
+        "title": "Second Chance - Capa Remix",
+        "artist": "Digitalism",
+        "album": "Second Chance (Remixes)",
+        "spotify_url": "https://open.spotify.com/track/57orjwGtzg4CDunqhIGuMq",
+        "duration_ms": 342000,
+        "search_query": "Second Chance - Capa Remix Digitalism"
+    },
+    {
+        "title": "IMAIYAM",
+        "artist": "RHYME SO",
+        "album": "IAFB",
+        "spotify_url": "https://open.spotify.com/track/44LtsGHLRlLumIRGlXnGM5",
+        "duration_ms": 218089,
+        "search_query": "IMAIYAM RHYME SO"
+    },
+    {
+        "title": "Deep in Tokyo II",
+        "artist": "RHYME",
+        "album": "Deep in Tokyo II",
+        "spotify_url": "https://open.spotify.com/track/7I7tcXwZ7CgYgTowZ2fmTZ",
+        "duration_ms": 92886,
+        "search_query": "Deep in Tokyo II RHYME"
+    },
+    {
+        "title": "This Feeling",
+        "artist": "Noisestorm",
+        "album": "This Feeling",
+        "spotify_url": "https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG",
+        "duration_ms": 261818,
+        "search_query": "This Feeling Noisestorm"
+    },
+    {
+        "title": "Somebody To Love - Voost Remix",
+        "artist": "Basstrologe",
+        "album": "Somebody To Love (Voost Remix)",
+        "spotify_url": "https://open.spotify.com/track/6khDkufRIkUnxIbYdmW6K8",
+        "duration_ms": 141990,
+        "search_query": "Somebody To Love - Voost Remix Basstrologe"
+    },
+    {
+        "title": "Never Be Lonely - Donk Edit!",
+        "artist": "Jax Jones",
+        "album": "Never Be Lonely (Donk Edit!)",
+        "spotify_url": "https://open.spotify.com/track/5hqtLeNixIV4WHU111uPcz",
+        "duration_ms": 135353,
+        "search_query": "Never Be Lonely - Donk Edit! Jax Jones"
+    },
+    {
+        "title": "The Days - NOTION Remix",
+        "artist": "Chrystal",
+        "album": "The Days (NOTION Remix)",
+        "spotify_url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8",
+        "duration_ms": 233229,
+        "search_query": "The Days - NOTION Remix Chrystal"
+    },
+    {
+        "title": "Could I Be",
+        "artist": "Saint Punk",
+        "album": "Could I Be",
+        "spotify_url": "https://open.spotify.com/track/6uxPgGLWIrfA79U8dFaZPE",
+        "duration_ms": 154615,
+        "search_query": "Could I Be Saint Punk"
+    },
+    {
+        "title": "Set You Free",
+        "artist": "Maur",
+        "album": "Set You Free",
+        "spotify_url": "https://open.spotify.com/track/6xkFJfOr9SMCVN48RXNDIg",
+        "duration_ms": 156000,
+        "search_query": "Set You Free Maur"
+    },
+    {
+        "title": "Your Love",
+        "artist": "TEED",
+        "album": "Trouble",
+        "spotify_url": "https://open.spotify.com/track/15oQFhZ5cq9Kgsf1kcn7Eb",
+        "duration_ms": 230025,
+        "search_query": "Your Love TEED"
+    },
+    {
+        "title": "Colder - Belters Only Remix",
+        "artist": "St. Paul ",
+        "album": "Colder (Belters Only Remix)",
+        "spotify_url": "https://open.spotify.com/track/2yAl1FrvBbO5FTZvtcqXFJ",
+        "duration_ms": 181417,
+        "search_query": "Colder - Belters Only Remix St. Paul "
+    },
+    {
+        "title": "Illegal + Nia Archives",
+        "artist": "PinkPantheress",
+        "album": "Illegal + Nia Archives",
+        "spotify_url": "https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro",
+        "duration_ms": 160500,
+        "search_query": "Illegal + Nia Archives PinkPantheress"
+    },
+    {
+        "title": "Wings (I Won't Let You Down) [Krakota Remix]",
+        "artist": "Armand Van Helden",
+        "album": "Wings (I Won't Let You Down) [Krakota Remix]",
+        "spotify_url": "https://open.spotify.com/track/4xWzZiZk6NWAO62h5sMm0N",
+        "duration_ms": 188608,
+        "search_query": "Wings (I Won't Let You Down) [Krakota Remix] Armand Van Helden"
+    },
+    {
+        "title": "Bliss",
+        "artist": "Golemm",
+        "album": "Hazardous Bubble Basics",
+        "spotify_url": "https://open.spotify.com/track/69BiyGAOsD4OyeFTxi5caG",
+        "duration_ms": 110774,
+        "search_query": "Bliss Golemm"
+    },
+    {
+        "title": "My Way Out",
+        "artist": "Fulcrum",
+        "album": "My Way Out",
+        "spotify_url": "https://open.spotify.com/track/0qiWnrmi9yBjfqyPbYXPMi",
+        "duration_ms": 127947,
+        "search_query": "My Way Out Fulcrum"
+    },
+    {
+        "title": "Idealistic",
+        "artist": "Digitalism",
+        "album": "Idealism",
+        "spotify_url": "https://open.spotify.com/track/2jJ2OyPniCS1a16Ghw8vZo",
+        "duration_ms": 250693,
+        "search_query": "Idealistic Digitalism"
+    },
+    {
+        "title": "Opus",
+        "artist": "Eric Prydz",
+        "album": "Opus",
+        "spotify_url": "https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV",
+        "duration_ms": 543453,
+        "search_query": "Opus Eric Prydz"
+    },
+    {
+        "title": "Distort Me",
+        "artist": "Boys Noize",
+        "album": "Strictly Raw, Vol. 2",
+        "spotify_url": "https://open.spotify.com/track/12AFrwqJibb2Y0N710O43w",
+        "duration_ms": 198068,
+        "search_query": "Distort Me Boys Noize"
+    },
+    {
+        "title": "top 1",
+        "artist": "hexrt",
+        "album": "top 1",
+        "spotify_url": "https://open.spotify.com/track/4L9SnrLkJPEUHZctGWZCf3",
+        "duration_ms": 71889,
+        "search_query": "top 1 hexrt"
+    },
+    {
+        "title": "CRAZY STORY",
+        "artist": "DJ DEADHORSES",
+        "album": "CRAZY STORY",
+        "spotify_url": "https://open.spotify.com/track/29Bw8Rwh7He6cWIxj4xI1Q",
+        "duration_ms": 198620,
+        "search_query": "CRAZY STORY DJ DEADHORSES"
+    },
+    {
+        "title": "ONE CALL",
+        "artist": "Rich Amiri",
+        "album": "Ghetto Fabulous",
+        "spotify_url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C",
+        "duration_ms": 121399,
+        "search_query": "ONE CALL Rich Amiri"
+    },
+    {
+        "title": "JRJRJR",
+        "artist": "Jane Remover",
+        "album": "Revengeseekerz",
+        "spotify_url": "https://open.spotify.com/track/29M6802gdnONhtdsjPdtv9",
+        "duration_ms": 268803,
+        "search_query": "JRJRJR Jane Remover"
+    },
+    {
+        "title": "Sunset",
+        "artist": "Duwap Kaine",
+        "album": "Sunset",
+        "spotify_url": "https://open.spotify.com/track/6Zrn7TapHMhkyD1SrqfAvD",
+        "duration_ms": 139711,
+        "search_query": "Sunset Duwap Kaine"
+    },
+    {
+        "title": "Pizza Time",
+        "artist": "Che",
+        "album": "Pizza Time",
+        "spotify_url": "https://open.spotify.com/track/3pxg2vxImneIXH7Kt4raVM",
+        "duration_ms": 119468,
+        "search_query": "Pizza Time Che"
+    },
+    {
+        "title": "Rage your dream",
+        "artist": "m.o.v.e",
+        "album": "Rage your dream",
+        "spotify_url": "https://open.spotify.com/track/4n54JaXMZLwJ3qUPnLh8TC",
+        "duration_ms": 272966,
+        "search_query": "Rage your dream m.o.v.e"
+    },
+    {
+        "title": "AMAZING LOVE",
+        "artist": "Folder 5",
+        "album": "HYPER GROOVE 1",
+        "spotify_url": "https://open.spotify.com/track/6kKixch6k1NxqXhhIi4O6h",
+        "duration_ms": 234266,
+        "search_query": "AMAZING LOVE Folder 5"
+    },
+    {
+        "title": "Heartbeat - Extended mix",
+        "artist": "Nathalie",
+        "album": "Bratt Sinclaire Eurobeat Style, Vol.4",
+        "spotify_url": "https://open.spotify.com/track/2H5wRJv2e6j8Q0SAHfI8Vm",
+        "duration_ms": 305388,
+        "search_query": "Heartbeat - Extended mix Nathalie"
+    },
+    {
+        "title": "Glow",
+        "artist": "Digitalism",
+        "album": "Glow",
+        "spotify_url": "https://open.spotify.com/track/1Z2UlDPtTr5SDMuXzfayHb",
+        "duration_ms": 284560,
+        "search_query": "Glow Digitalism"
+    },
+    {
+        "title": "Everyone Falls Asleep In Their Own Time",
+        "artist": "Sophia Stel",
+        "album": "Everyone Falls Asleep In Their Own Time",
+        "spotify_url": "https://open.spotify.com/track/7sGYT6ewCCJ5KJvWP1n3MP",
+        "duration_ms": 242490,
+        "search_query": "Everyone Falls Asleep In Their Own Time Sophia Stel"
+    },
+    {
+        "title": "boyfriend",
+        "artist": "2charm",
+        "album": "boyfriend",
+        "spotify_url": "https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk",
+        "duration_ms": 201796,
+        "search_query": "boyfriend 2charm"
+    },
+    {
+        "title": "Light As A Feather - Matt Fax Remix",
+        "artist": "Boom Jinx",
+        "album": "Light As A Feather",
+        "spotify_url": "https://open.spotify.com/track/2UMk0cqo3NAlapz3Q537z5",
+        "duration_ms": 241939,
+        "search_query": "Light As A Feather - Matt Fax Remix Boom Jinx"
+    },
+    {
+        "title": "Bailar (I Want To Dance)",
+        "artist": "Bodysync",
+        "album": "NUTTY",
+        "spotify_url": "https://open.spotify.com/track/610RoZ8grhNfSFkiQcPmKt",
+        "duration_ms": 197260,
+        "search_query": "Bailar (I Want To Dance) Bodysync"
+    },
+    {
+        "title": "Girl Like Me",
+        "artist": "PinkPantheress",
+        "album": "Fancy That",
+        "spotify_url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB",
+        "duration_ms": 145520,
+        "search_query": "Girl Like Me PinkPantheress"
+    }
+]
